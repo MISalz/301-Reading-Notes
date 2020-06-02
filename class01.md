@@ -31,3 +31,14 @@ Responsive and adaptive web design are closely related, and often transposed as 
 Responsive web design is broken down into three main components, including flexible layouts, media queries, and flexible media. 
 
 target ÷ context = result
+
+
+# Floats
+All about floats (https://css-tricks.com/all-about-floats/)
+
+Floats (escalator)
+https://www.freecodecamp.org/news/css-floats-explained-by-riding-an-escalator-57fa55232333/
+
+# Grids
+Grids (https://css-tricks.com/dont-overthink-it-grids/)
+

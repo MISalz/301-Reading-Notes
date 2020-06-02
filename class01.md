@@ -25,3 +25,9 @@ If you need text wrapping around images, there really aren’t any alternatives 
 Link: https://learn.shayhowe.com/advanced-html-css/responsive-web-design/
 
 Responsive web design is the practice of building a website suitable to work on every device and every screen size, no matter how large or small, mobile or desktop. Responsive web design is focused around providing an intuitive and gratifying experience for everyone. Desktop computer and cell phone users alike all benefit from responsive websites.
+
+Responsive and adaptive web design are closely related, and often transposed as one in the same. Responsive generally means to react quickly and positively to any change, while adaptive means to be easily modified for a new purpose or situation, such as change. With responsive design websites continually and fluidly change based on different factors, such as viewport width, while adaptive websites are built to a group of preset factors.
+
+Responsive web design is broken down into three main components, including flexible layouts, media queries, and flexible media. 
+
+target ÷ context = result

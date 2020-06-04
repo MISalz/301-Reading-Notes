@@ -1,8 +1,8 @@
 # 301-Reading-Notes
 CF 301 class
 
-|Class| Reading Assignment|
-|---|---|---|
+|Class|Reading Assignment|
+---|---
 [Reading 1](https://misalz.github.io/301-Reading-Notes/Read01.md)|Reading Shay Howe’s intro to RWD
 All About Floats Bookmark/Skim
 Don’t Overthink It Grids

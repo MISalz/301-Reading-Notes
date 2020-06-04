@@ -1,4 +1,4 @@
-# Class 1 Notes
+# Read 1 Notes
 
 ## Floats
 

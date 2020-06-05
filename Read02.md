@@ -1,4 +1,4 @@
-# Read 1 Notes
+# Read 2 Notes
 
 ## Pair Programming
 

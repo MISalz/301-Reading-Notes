@@ -1,5 +1,5 @@
 # Read 8 Notes
-A primer on SQP **Rahul Batra 2015**
+A primer on SQl **Rahul Batra 2015**
 
 A database is nothing but a collection of organized data.
 
@@ -22,6 +22,6 @@ Used for managing groups of statements as a unit of work.
 
 ----
 
-<img src="sql.png">
+<img src="./images/sql.png">
 
-### [home](https://misalz.github.io/301-Reading-Notes/readme.md)
+### [home](https://misalz.github.io/reading_notes2/)

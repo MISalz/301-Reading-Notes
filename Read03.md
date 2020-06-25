@@ -21,12 +21,12 @@ res.render('hello', nameObject)
 
 aims at providing a more efficient way to lay out, align and distribute space among items in a container, even when their size is unknown and/or dynamic (thus the word “flex”).
 
-<img src="read03 -img1.gif">
+<img src="./images/read03 -img1.gif">
 
 # [FlexboxFroggy](https://flexboxfroggy.com/)
 
 Flexbox practice
 
-<img src="read03-img2.gif">
+<img src="./images/read03-img2.gif">
 
-### [home](https://misalz.github.io/301-Reading-Notes/readme.md)
+### [home](https://misalz.github.io/reading_notes2/)

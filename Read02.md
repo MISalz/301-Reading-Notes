@@ -12,4 +12,4 @@ JavaScript and jQuery book by Jon Duckett pages 332-335
 
 JavaScript and jQuery book by Jon Duckett pages 302-305
 
-### [home](https://misalz.github.io/301-Reading-Notes/readme.md)
+### [home](https://misalz.github.io/reading_notes2/)

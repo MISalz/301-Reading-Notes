@@ -4,12 +4,12 @@
 
 # [node.js](https://howtonode.org/deploy-blog-to-heroku)
 Create a server with node.js
-<img src="./reading05-img1.gif">
+<img src="./images/reading05-img1.gif">
 
 Heroku is a cloud platform as a service (cool long-bearded programmer guys call such type of things "PaaS"). It allows you to deploy your web server, so everyone could see how awesome you are as a web developer
 
 ## declare some variables
-<img src="./reading05-img2.gif">
+<img src="./images/reading05-img2.gif">
 
 1. The first one will give you the key to Node's HTTP functionality. 
 2. The second one is for possibility to interact with the file system. 
@@ -17,28 +17,28 @@ Heroku is a cloud platform as a service (cool long-bearded programmer guys call 
 4. The last one allows you to determine a file's MIME-type. 
 
 ## Create the package.json file and fill it with proper information
-<img src="./reading05-img3.gif">
+<img src="./images/reading05-img3.gif">
 
 We'll use built-in Node Package Manager
 run: npm install
 
 ## now create send404() function. It will handle the sending of 404 error
-<img src="./reading05-img4.gif">
+<img src="./images/reading05-img4.gif">
 
 ## define sendPage() function
-<img src="./reading05-img5.gif">
+<img src="./images/reading05-img5.gif">
 
 ## This function will return the content of the requested file or the 404 error otherwise
-<img src="./reading05-img6.gif">
+<img src="./images/reading05-img6.gif">
 
 ## create the HTTP server
-<img src="./reading05-img7.gif">
+<img src="./images/reading05-img7.gif">
 
 ## Heroku sets a dynamically assigned port number to your app. That's why we need to handle all this mess with ports as it’s shown below
-<img src="./reading05-img8.gif">
+<img src="./images/reading05-img8.gif">
 
 ## create the index.html file
-<img src="./reading05-img9.gif">
+<img src="./images/reading05-img9.gif">
 
 ## Heroku time
 
@@ -73,4 +73,4 @@ The application is now deployed.
 ## 8. You can try it now: 
 **heroku open**
 
-### [home](https://misalz.github.io/301-Reading-Notes/readme.md)
+### [home](https://misalz.github.io/reading_notes2/)

@@ -22,6 +22,6 @@ the server has to wait for the database lookup to complete before it can move on
 its event-driven, which means that everything that happens in Node is in reaction to an event. **For example, when a new request comes in (one kind of event) the server will start processing it. If it then encounters a blocking I/O operation, instead of waiting for this to complete, it will register a callback before continuing to process the next event. When the I/O operation has finished (another kind of event), the server will execute the callback and continue working on the original request.**
 
 # Node’s execution model:
-<img src="./read-06-img1.png">
+<img src="./images/read-06-img1.png">
 
-### [home](https://misalz.github.io/301-Reading-Notes/readme.md)
+### [home](https://misalz.github.io/reading_notes2/)

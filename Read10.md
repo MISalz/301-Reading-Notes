@@ -1,5 +1,5 @@
-# Read 5 Notes
+# Read 10 Notes
 
 
 
-### [home](https://misalz.github.io/301-Reading-Notes/readme.md)
+### [home](https://misalz.github.io/reading_notes2/)
